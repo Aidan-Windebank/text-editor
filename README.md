@@ -17,4 +17,4 @@ The following is a text editor web application that utilizes PWAs so that it can
 [Click Here to View GitHub Repo](https://github.com/Aidan-Windebank/text-editor)
 
 ## Link to Deployed Web Application
-[Click Here to Visit Web Application]()
+[Click Here to Visit Web Application](https://aidan-text-editor-d192508be719.herokuapp.com/)
